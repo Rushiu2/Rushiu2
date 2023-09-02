@@ -1,4 +1,4 @@
-![logo](https://github.com/Rushiu2/Rushi-Suryawanshi/blob/main/RE.png)
+![logo]([https://github.com/Rushiu2/Rushi-Suryawanshi/blob/main/RE.png](https://github.com/Rushiu2/Rushiu2/blob/main/RE.png))
 <h1 align="center">Hi 👋, I'm Rushikesh Suryawanshi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
